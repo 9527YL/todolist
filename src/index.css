@@ -1,0 +1,7 @@
+#root{
+    color: -internal-root-color;
+    background: Gainsboro;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
